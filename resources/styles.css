@@ -1,0 +1,65 @@
+.navbar .logo{
+	width:50px;
+}
+
+.nav-link{
+	text-transform: uppercase;
+}
+
+.user{
+	display: flex!important;
+  align-items: center;
+}
+.fa-circle-user{
+	font-size: 24px;
+	margin-right: 10px;
+}
+
+.alert{
+	
+  margin: 0px!important;
+  
+}
+
+.cover-content{
+	height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 50px;
+	
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 1rem;
+}
+
+footer{
+
+	background-color:rgb(33,37,41);
+	color:white;
+	padding:20px; /* marge intérieur */
+}
+
+.social{
+	display:flex;
+	list-style-type: none;
+	color:white;
+	justify-content: center;
+    gap: 20px;
+    padding: 0px;
+}
+
+.social li a{
+	color:white;
+	font-size:30px;
+}
+
+.copyright{
+	text-align:center; /* centrer un paragraphe dans une boite */
+	margin-top:10px;
+	font-size: 12px;
+}
